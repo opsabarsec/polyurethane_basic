@@ -5,4 +5,8 @@
 Figure1. Simple addition reaction with urethane bond formation.
 
 This notebook illustrates some basic calculations for polyurethane chemistry.
-For undergraduate students of Chemistry, it provides a good base when more reactants are added such as chain extenders for termoplastic polyurethanes or water when making polyurethane foams.
+For undergraduate students of Chemistry, it provides only a simple base
+This document should be further elaborated for real formulations, where more reactants are added such as chain extenders or water when making polyurethane foams.
+
+Rather than calculating by hand or adding formulas to Excel, Jupyter notebooks provide clear results from equations and the possibility to add explanation text making the whole calculation more understandable.
+The whole code was produced using Google Colabs and can be run without installing any software on your PC.
